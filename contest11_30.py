@@ -28,8 +28,8 @@ db_pool = pool.SimpleConnectionPool(
     maxconn=5,  # adjust as needed
     dbname="neondb",
     user="neondb_owner",
-    password="npg_w3XGEKmna6hv",
-    host="ep-rapid-silence-aghzq02a-pooler.c-2.eu-central-1.aws.neon.tech",
+    password="npg_tK7QZEec4mBv",
+    host="ep-delicate-bush-ag1i4dsy-pooler.c-2.eu-central-1.aws.neon.tech",
     port="5432",
     sslmode="require"
 )
